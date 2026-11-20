@@ -1,0 +1,7 @@
+Urban Stormwater Drainage Modelling and Green Roof LID Assessment | EPA SWMM 5.2.4
+- Configured an urban stormwater model comprising 35 subcatchments, 45 junctions and 40 conduits using Horton infiltration and Dynamic Wave routing.
+- Applied a six-hour rainfall simulation for a Green Road, Dhaka study catchment and reviewed hydrologic and hydraulic outputs, including runoff, node flooding, conduit flows and continuity indicators.
+- Configured Green Roof LID controls in four subcatchments and reviewed reported LID storage and drainage performance.
+- Organised model inputs, simulation outputs and extracted parameter inventories into a documented GitHub project.
+
+Describe this as an academic modelling project. Do not claim calibration, validation or design optimisation unless those steps are completed and documented.

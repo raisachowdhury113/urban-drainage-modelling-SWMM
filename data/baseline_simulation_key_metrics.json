@@ -1,0 +1,25 @@
+{
+  "SWMM_build": "5.2.4",
+  "subcatchments": 35,
+  "junctions": 45,
+  "conduits": 40,
+  "storage_units": 1,
+  "pumps": 1,
+  "outfalls": 1,
+  "LID_usage_records": 4,
+  "total_precipitation_mm": 142.0,
+  "surface_runoff_mm": 130.574,
+  "infiltration_loss_mm": 1.226,
+  "runoff_continuity_error_percent": -0.346,
+  "wet_weather_inflow_million_litres": 19.431,
+  "flooding_loss_million_litres": 17.537,
+  "routing_continuity_error_percent": 0.215,
+  "nonconverging_steps_percent": 6.69,
+  "LID_control": "LID_GR (GR = Green Roof)",
+  "LID_subcatchments": [
+    "S14",
+    "S1",
+    "S30",
+    "S23"
+  ]
+}

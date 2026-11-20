@@ -1,0 +1,5 @@
+subcatchment,lid_control,number,area,width,initial_saturation,from_impervious,to_pervious,report_file,drain_to,from_pervious
+S14,LID_GR,1,500,25,0,0,0,*,*,0
+S1,LID_GR,8,500,25,0,0,0,*,*,0
+S30,LID_GR,5,500.00,25,0,0,0,*,*,0
+S23,LID_GR,1,500,25,0,0,0,*,*,0

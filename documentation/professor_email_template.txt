@@ -1,0 +1,18 @@
+Subject: Research interest in urban stormwater modelling and sustainable drainage
+
+Dear Professor [Surname],
+
+I am a recent graduate in Civil and Environmental Engineering from the Islamic University of Technology (IUT), Bangladesh. I am interested in pursuing graduate research in water resources and urban stormwater management.
+
+As part of my academic work, I developed an EPA SWMM-based urban drainage model for a study catchment in Green Road, Dhaka. The model involved rainfall–runoff simulation, Dynamic Wave routing and the configuration of Green Roof LID controls. I have organised the model inputs, simulation report, extracted parameter tables and technical documentation into a project repository.
+
+The project strengthened my interest in urban hydrology, hydraulic modelling and nature-based stormwater management. I am keen to build on this foundation through research involving [insert the professor's relevant research topic].
+
+I would be grateful to know whether you anticipate opportunities for graduate research in your group for Fall 2027. My project repository is available here: [GitHub URL].
+
+Thank you for your time and consideration.
+
+Best regards,
+Raisa Chowdhury
+B.Sc. Civil and Environmental Engineering
+Islamic University of Technology
